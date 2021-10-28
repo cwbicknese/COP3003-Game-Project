@@ -1,6 +1,5 @@
 # COP3003-Game-Project
 This is a game I am making in Unity using C#. Source code is found in Assets/Scripts.
-I wanted to focus mostly on simply getting the code to work since I am new to C#, so I haven't downloaded assets from the asset store to make it look nice yet. The different objects in the scene are just cubes and capsules for now.
 
 With this game, I am going for something similar to the City Trial mode of the Nintendo Gamecube game Kirby Air Ride. It is a game about moving around and collecting items that increase your stats to increase your movement capabilities.
 
@@ -17,6 +16,8 @@ Known issues:
   1. The player doesn't always bounce off enemies like they are supposed to. Sometimes it results in a more jagged collision.
   2. Sometimes enemies drop more stat boosters than they are supposed to.
   3. Sometimes the player will clip through the walls/ground. This seems to happen more at high speeds.
+
+The visuals can be improved by downloading assets from the asset store. I wanted to focus mostly on simply getting the code to work since I am new to C#, so the different objects in the scene are just cubes and capsules for now.
 
 Currently the game feels more like a tech demo than an actual game with an objective. It was helpful to gain a feel for using C# and Unity, but now that I am feeling a little more comfortable I am thinking about starting from scratch and doing a different game project instead.
 
