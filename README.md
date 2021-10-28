@@ -19,6 +19,6 @@ Known issues:
 
 The visuals can be improved by downloading assets from the asset store. I wanted to focus mostly on simply getting the code to work since I am new to C#, so the different objects in the scene are just cubes and capsules for now.
 
-Currently the game feels more like a tech demo than an actual game with an objective. It was helpful to gain a feel for using C# and Unity, but now that I am feeling a little more comfortable I am thinking about starting from scratch and doing a different game project instead. I would prefer to do something a little more numbers-based rather than physics-based.
+Currently the game feels more like a tech demo than an actual game with an objective. It was helpful to gain a feel for using C# and Unity, but now that I am feeling a little more comfortable I am thinking about starting from scratch and doing a different game project instead. I would prefer to do something a little more numbers-based rather than physics-based, but I still might decide to just continue with this project.
 
 ![COP3003_game_screenshot1](https://user-images.githubusercontent.com/42978071/139347907-3435cd23-3049-4e79-9602-b9d6ed4226e6.PNG)
